@@ -1,1 +1,1 @@
-# demo-static-website
+# Static website for demo
